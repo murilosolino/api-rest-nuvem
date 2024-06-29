@@ -20,7 +20,7 @@ API contectava com o serviço cloud da Railway que hospeda o banco de dados em p
 - Navegue até o diretório do projeto: cd api-rest-nuvem
 - Execute o projeto com o Gradle: ./gradlew bootRun
 - Após isto acesse http://localhost:8080/swagger-ui/index.html#/
-- 
+ 
 ## Diagrama de Classes (Domínio da API)
 
 ```mermaid

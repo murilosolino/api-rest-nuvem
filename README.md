@@ -19,7 +19,7 @@ API contectava com o serviço cloud da Railway que hospeda o banco de dados em p
  - Clone o repositório: git clone https://github.com/murilosolino/api-rest-nuvem
 - Navegue até o diretório do projeto: cd api-rest-nuvem
 - Execute o projeto com o Gradle: ./gradlew bootRun
-- Acesse http://localhost:8080/swagger-ui/index.html#/
+- Após isto acesse http://localhost:8080/swagger-ui/index.html#/
 - 
 ## Diagrama de Classes (Domínio da API)
 

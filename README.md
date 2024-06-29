@@ -1,6 +1,6 @@
 ### Descrição 📃
 Introdução a criação de uma API REST utilizando Spring JPA, Spring WEB, e OpenApi. 
-API contectava com o serviço cloud da Railway que hospeda o banco de dados em postegre
+API conectada com o serviço cloud da Railway que hospeda o banco de dados em postegre
 
 ### Estrutura do Projeto 🏗️
 - src/: Código-fonte da aplicação
